@@ -14,8 +14,6 @@ Demonstrar habilidades em:
 - `main.py`: Script Python que carrega os dados, cria o banco SQLite, executa consultas SQL e gera gráficos.
 - `requirements.txt`: Lista de dependências do projeto.
 - `README.md`: Documentação do projeto.
-- `salario_por_departamento.png`: Gráfico gerado (salário médio por departamento).
-- `distribuicao_cargos.png`: Gráfico gerado (distribuição de cargos).
 
 ## Pré-requisitos
 - **Python**: 3.8 ou superior.
